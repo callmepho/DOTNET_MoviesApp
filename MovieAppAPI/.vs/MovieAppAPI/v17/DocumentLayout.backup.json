@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AnthonyPC\\Documents\\_nology\\MovieApp\\MovieAppAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4530A0B8-6205-41D1-AB88-664002D62DDF}|MovieAppAPI\\MovieAppAPI.csproj|c:\\users\\anthonypc\\documents\\_nology\\movieapp\\movieappapi\\movieappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4530A0B8-6205-41D1-AB88-664002D62DDF}|MovieAppAPI\\MovieAppAPI.csproj|solutionrelative:movieappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4530A0B8-6205-41D1-AB88-664002D62DDF}|MovieAppAPI\\MovieAppAPI.csproj|c:\\users\\anthonypc\\documents\\_nology\\movieapp\\movieappapi\\movieappapi\\endpoints\\genresendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4530A0B8-6205-41D1-AB88-664002D62DDF}|MovieAppAPI\\MovieAppAPI.csproj|solutionrelative:movieappapi\\endpoints\\genresendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4530A0B8-6205-41D1-AB88-664002D62DDF}|MovieAppAPI\\MovieAppAPI.csproj|c:\\users\\anthonypc\\documents\\_nology\\movieapp\\movieappapi\\movieappapi\\endpoints\\moviesendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4530A0B8-6205-41D1-AB88-664002D62DDF}|MovieAppAPI\\MovieAppAPI.csproj|solutionrelative:movieappapi\\endpoints\\moviesendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AnthonyPC\\Documents\\_nology\\MovieApp\\MovieAppAPI\\MovieAppAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MovieAppAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\AnthonyPC\\Documents\\_nology\\MovieApp\\MovieAppAPI\\MovieAppAPI\\Program.cs",
+              "RelativeToolTip": "MovieAppAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:10:58.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenresEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\AnthonyPC\\Documents\\_nology\\MovieApp\\MovieAppAPI\\MovieAppAPI\\Endpoints\\GenresEndpoints.cs",
+              "RelativeDocumentMoniker": "MovieAppAPI\\Endpoints\\GenresEndpoints.cs",
+              "ToolTip": "C:\\Users\\AnthonyPC\\Documents\\_nology\\MovieApp\\MovieAppAPI\\MovieAppAPI\\Endpoints\\GenresEndpoints.cs",
+              "RelativeToolTip": "MovieAppAPI\\Endpoints\\GenresEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:02:38.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\AnthonyPC\\Documents\\_nology\\MovieApp\\MovieAppAPI\\MovieAppAPI\\Endpoints\\MoviesEndpoints.cs",
+              "RelativeDocumentMoniker": "MovieAppAPI\\Endpoints\\MoviesEndpoints.cs",
+              "ToolTip": "C:\\Users\\AnthonyPC\\Documents\\_nology\\MovieApp\\MovieAppAPI\\MovieAppAPI\\Endpoints\\MoviesEndpoints.cs",
+              "RelativeToolTip": "MovieAppAPI\\Endpoints\\MoviesEndpoints.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T06:20:11.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
